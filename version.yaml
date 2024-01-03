@@ -1,0 +1,13 @@
+# This file contains information about CSV2SQ and its version.
+
+# Version Information
+Version: 1.0.0
+
+# Release Date
+Release Date: 2024-01-03
+
+# Author
+Author: Ahmed Khatib
+
+# Description
+Description: A flexible python package to send mails with attachments from your server.
